@@ -1,3 +1,4 @@
+@SpringBootApplication
 public class Application {
 
 }
